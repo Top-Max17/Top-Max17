@@ -15,7 +15,7 @@
 <blockquote><a href=""> 
 <img src="/fb.png" alt="" width="50" heigh="50"></a>
    <a href=""><img src="/inst.png" alt="" width="50" height="50"   ></a><a href="">
-        <img src="/tw.png" alt="mr." width="50" height="50"></a>
+        <img src="/tw.png" alt="" width="50" height="50"></a>
            <a href="">
              <img src="/you.png" alt="" width="50"    height="50"></a> </blockquote>
 </h5></p></blockquote></body></html>
