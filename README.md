@@ -15,7 +15,7 @@
          height="200px">
         <h1><p>✌Hi! there 
        i'm Top-max17
-      </p></h1><p><ul><li>internet issues<img src="" alt="topmax" width="50" height="50"></p>
+      </p></h1><p><ul><li>internet issues<img src="internet.png" alt="topmax" width="30" height="30"></p>
       <li><p>Ethical hacker<img src="" alt="topmax" width="50" height="50"></p></li><li><p>cyber security<img src="" alt="topmax" width="50" heght="50"></li></p></ul>   
        <ul><img src="top17.png" alt="topmax" width="90" height="90"><img src="top_17.png" alt="topmax" width="90" height="90"></ul>
  </ul><hr></hr><h2>Funny:
