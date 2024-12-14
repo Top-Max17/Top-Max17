@@ -16,7 +16,7 @@
         <h1><p>✌Hi! there 
        i'm Top-max17
       </p></h1><p>Ethical 
-     Hacking,programmer<p><ul>         <li>python</li><li>html</li>       <li>css</li>
+     Hacking,programmer<p><ul>         <li><img src="" alt=""topmax width="70" height="70"></li><li>html</li>  <li><img src="" alt="" width="70" height="70"></li>
  </ul><h2><hr></hr><strong>
 <ul>📌web developer.</ul>
 <ul>📌Ethical hacking</ul></h2>
