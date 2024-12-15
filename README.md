@@ -22,7 +22,7 @@
  <p>plya video games🎮</p>
  <h3>Contact me: </h3></p></strong>
   <blockquote><a href="https://www.instagram.com/topmax_17?igsh=YzljYTk1ODg3Zg==> "><img src="BackgroundEraser_20241124_204528730.png" alt="" width="50" heigh="50"></a>
-   <a href=""><img src="/BackgroundEraser_20241124_204609424.png" alt="Top-max17" width="50" height="50"></a><a href="">
+ <a href="">
         <img src="/BackgroundEraser_20241124_204545562.png" alt="" width="50" height="50"></a>
            <a href="">
              <img src="BackgroundEraser_20241124_203645585.png" alt="" width="50"    height="50"></a> </blockquote>
