@@ -19,7 +19,7 @@
       <li><p>Ethical hacker<img src="network.png" alt="topmax" width="30" height="30"></p></li><li><p>cyber security<img src="protection.png" alt="topmax" width="30" heght="30"></li></p></ul>   
        <ul><img src="top17.png" alt="topmax" width="90" height="90"><img src="top_17.png" alt="topmax" width="90" height="90"></ul>
  </ul><hr></hr><h2>Funny:
- <p>plya video games🎮</p>
+ <p>play video games🎮</p>
  <h3>Contact me: </h3></p></strong>
   <blockquote><a href="https://www.instagram.com/topmax_17?igsh=YzljYTk1ODg3Zg==> "><img src="BackgroundEraser_20241124_204528730.png" alt="" width="50" heigh="50"></a>
  <a href="">
